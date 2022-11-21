@@ -1,4 +1,4 @@
-# Érettségiztető Rendszer
+# Érettségi Rendszer
 
 # Romániai érettségiztető rendszer teljes lemásolása, eredeti oldal: http://static.bacalaureat.edu.ro/2022/rapoarte/
 
