@@ -1,0 +1,101 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+hr {
+    height: 7px;
+    background-image: linear-gradient(white, #2a71eb);
+    border: 1px solid black;
+}
+
+#data tr {
+    display: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+a:visited {
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: none;
+}
+
+
+a:active {
+    text-decoration: none;
+}
+
+body.p {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.opcio {
+    border: 1px black solid;
+    border-radius: 6px;
+    padding: 3px;
+    background-color: #009CE7;
+}
+
+
+
+.left {
+    float: left;
+}
+
+.table > thead > tr > th {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table > thead > tr > td {
+    border: 1px solid black;
+}
+
+#myTable {
+    width: 90%;
+    font-size: 11px;
+    text-align: center;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+padding:0px;
+}
+
+.red {
+    background-color: red !important;
+}
+#myTable thead th {
+    background-color:black;
+    padding-right: 0;
+    padding-left:0;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:white;
+    text-align:center;
+
+}
+#myTable tr td {
+    background-color:white;
+    vertical-align:middle;
+    padding:0;
+}
